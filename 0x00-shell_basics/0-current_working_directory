@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(CD "$(DIRNAME "$1")"[D[D[D[D[0x	[D[D[D[D[D[D[D[D00-shell_basics[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C "$1")"; pwd -P)/$(0-current_working_directory "$1")"
+
