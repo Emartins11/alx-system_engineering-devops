@@ -1,1 +1,1 @@
-ALX projects on shell basics
+ALX projects on shell
